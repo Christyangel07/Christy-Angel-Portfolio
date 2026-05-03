@@ -3,11 +3,11 @@
 This is my personal portfolio website built using HTML. It showcases my profile, skills, and projects.
 
 ## 🚀 Live Demo
-👉 [View Portfolio](https://your-username.github.io/repository-name/)
+👉 [View Portfolio](https://christyangel07.github.io/Christy-Angel-Portfolio/)
 
 ## 📁 Project Structure
 📦 portfolio
- ┣ 📄 christy_portfolio_orginal.html
+ ┣ 📄 index.html
  ┗ 📄 README.md
 
 ## ✨ Features
@@ -21,9 +21,9 @@ This is my personal portfolio website built using HTML. It showcases my profile,
 
 ## 📌 How to Use
 1. Clone the repository
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/Christyangel07/Christy-Angel-Portfolio.git
 
-2. Open `christy_portfolio_original.html` in your browser
+2. Open `index.html` in your browser
 
 ## 📬 Contact
 - Name: Christy Angel A
